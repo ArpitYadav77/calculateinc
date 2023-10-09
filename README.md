@@ -1,2 +1,2 @@
-# calculateinc
-this is my first github.
+# calculate in c
+this is my first github,
