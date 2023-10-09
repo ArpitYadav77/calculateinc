@@ -1,2 +1,1 @@
-# calculate in c
-this is my first github,
+Hi ARPIT here <3
